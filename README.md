@@ -6,3 +6,6 @@ Modelagem de banco de dados - Implementação de uma rede social
 
 #### Relatório do Trabalho
 [Clique aqui...](https://github.com/rafaelsilva21/AT2N2-lab-de-banco-de-dados/blob/3cb0ae8a1277f14373f897be1a873cc3896c6e22/Relat%C3%B3rio%20do%20Trabalho.pdf)
+
+#### Scripts SQL
+Na pasta SQLscripts
